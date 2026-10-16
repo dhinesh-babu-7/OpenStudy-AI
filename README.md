@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenStudy AI
 
 OpenStudy AI is a small, open-source study assistant for learners who want a patient explanation, a worked example, or practice questions on a topic. It uses OpenRouter's free-model router for chat completions. A working OpenRouter API key and an available free model are required for answers.
@@ -118,3 +119,7 @@ See [`docs/DEVTO-DRAFT.md`](docs/DEVTO-DRAFT.md) for a submission draft. Verify 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+=======
+# OpenStudy-AI
+An AI-powered study assistant built with React, Node.js, and open-weight AI models.
+>>>>>>> fc44d6fe4f13ef86b8affaaee895f7f1008fc237
